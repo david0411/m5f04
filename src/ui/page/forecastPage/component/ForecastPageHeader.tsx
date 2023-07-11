@@ -3,6 +3,7 @@ import React from "react";
 
 type Props =    {
     updateTime: string |undefined
+    fetchForecastWeatherData: () => void
 }
 
 class ForecastPageHeader extends React.Component<Props> {
