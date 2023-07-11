@@ -1,0 +1,9 @@
+.weatherImg   {
+    width: 48px;
+    height: 48px;
+    background-size: contain;
+}
+
+#weather1   {
+    background-image: url("../img/cloudy.png");
+}

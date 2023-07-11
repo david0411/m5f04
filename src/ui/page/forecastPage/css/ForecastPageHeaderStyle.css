@@ -1,0 +1,35 @@
+*   {
+    color: white;
+}
+
+.headerStyle1    {
+    font-size: 34px;
+    font-weight: bold;
+}
+
+.headerStyle2   {
+    font-size: 14px;
+}
+
+.headerStyle3   {
+    font-size: 24px;
+    font-style: italic
+}
+
+.emptySpace  {
+    width: 20px;
+}
+
+#reloadButton   {
+    background-image: url("../img/sync.png");
+    background-size: contain;
+    background-color: #524d4d;
+    width: 40px;
+    height: 40px;
+    transition: .5s;
+    border-radius: 50%
+}
+
+#reloadButton:hover {
+    rotate: 90deg;
+}
