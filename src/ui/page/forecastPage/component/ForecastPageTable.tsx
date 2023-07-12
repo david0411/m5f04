@@ -1,7 +1,7 @@
 import {Table} from "react-bootstrap";
 import React from "react";
 import "../css/ForecastPageTableStyle.css"
-import {ForecastData} from "../../../../data/ForecastData.ts";
+import {ForecastData} from "../../../../data/ForecastData.tsx";
 import ForecastPageTableRow from "./ForecastPageTableRow.tsx";
 
 type Props  =   {

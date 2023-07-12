@@ -1,5 +1,5 @@
 import React from "react";
-import {List} from "../../../../data/ForecastData.ts";
+import {List} from "../../../../data/ForecastData.tsx";
 import * as moment from "moment/moment";
 import "../css/ForecastPageTableStyle.css"
 

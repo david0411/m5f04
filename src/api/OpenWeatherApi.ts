@@ -1,5 +1,5 @@
 import axios, {AxiosResponse} from "axios";
-import {ForecastData} from "../data/ForecastData.ts";
+import {ForecastData} from "../data/ForecastData.tsx";
 
 
 class OpenWeatherApi {
